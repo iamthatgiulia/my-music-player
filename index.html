@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Playlist</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+
+<body id="cor-de-fundo">
+    <div class="container-aplicativo">
+        <div id="image-container">
+            <div id="box"></div>
+            <img id="cover" alt="Disc Cover"></img>
+        </div>
+
+        <audio id="audio"></audio>
+
+        <div id="informacoes-faixa">
+            <p id="song-name"></p>
+            <p id="nome-autor"></p>
+        </div>
+
+        <div id="progress-container">
+            <div id="progress-bar">
+                <div id="current-progress"></div>
+                <div id="heart" class="bi bi-heart-fill"></div>
+            </div>
+        </div>
+
+        <div id="time-box" >
+            <div id="song-time">00:00:00</div>
+            <div id="total-time">00:00:00</div>
+        </div>
+
+        <div id="container-botoes">
+            <button id="anterior" class="bi bi-skip-backward-fill"></button>
+            <button id="play-pause" class="bi bi-play-fill"></button>
+            <button id="proximo" class="bi bi-skip-forward-fill"></button>
+        </div>
+
+    </div>
+    <script src="./finalmente.js"></script>
+</body>
+
+</html>
