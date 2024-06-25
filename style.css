@@ -1,0 +1,157 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: #FFFAFA;
+}
+
+#cor-de-fundo{
+  background-color: #f5d1da;
+}
+
+
+p{
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serifa';
+  line-height: 1px;
+}
+
+.container-aplicativo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button {
+  background-color: inherit;
+  color: inherit;
+  border: none;
+  cursor: pointer;
+}
+
+.music-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#informacoes-faixa {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem 0 1rem 0;
+  font-size: 1.5rem;
+  position: relative;
+  margin-top: 0px;
+  font-weight: 500;
+}
+
+#song-name{
+  font-size: 1.7rem;
+  margin-top: 3rem;
+}
+
+#nome-autor {
+  font-size: 1.2rem;
+  font-weight: 100;
+  margin-top: 0rem;
+}
+
+
+#anterior, #proximo {
+  font-size: 3rem;
+}
+
+#play-pause {
+  font-size: 4rem;
+}
+
+
+#container-botoes {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+  margin-top: -5px;
+}
+
+#progress-bar {
+  display: flex;
+  position: relative;
+  background-color: #c5c5de;
+  height: 4px;
+  width: 100%;
+  border-radius: 15px;
+}
+
+#current-progress {
+  --progress: 0%;
+  display: flex;
+  position: relative;
+  background-color: white;
+  height: inherit;
+  width: var(--progress);
+  border-radius: inherit; 
+}
+
+#heart{
+ --progress: 0%;
+  display: flex;
+  position: relative;
+  color: #FFFAFA;
+  font-size: 1.2rem;
+  background-color: white;
+  height: inherit;
+  width: var(--progress);
+  border-radius: inherit; 
+  margin-top: -0.37rem;
+}
+
+#progress-container{
+  position: relative;
+  height: 4px;
+  width: 100%;
+  border-radius: 15px;
+  padding-bottom: 1em;
+  padding-top: 1em;
+}
+
+#time-box{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+}
+
+#song-time{
+  font-size: smaller;
+  margin-top: -0.5rem;
+  margin-right: 6rem;
+}
+
+#total-time{
+  font-size: smaller;
+  margin-top: -0.5rem;
+  margin-left: 6rem;
+}
+
+#cover {
+        width: 300px;
+        height: 300px;
+        border-radius: 30px;
+        position: relative;
+
+}
+
+#box {
+  width: 339px;
+  height: 600px;
+  background-color: #a68996;
+  display: block;
+  border-radius: 20px;
+  margin-top: -15px;
+  margin-bottom: -10px;
+  margin-left: -20px;
+  position: absolute;
+}
+
