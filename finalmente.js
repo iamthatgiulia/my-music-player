@@ -111,10 +111,10 @@ changeBackground = () => {
 }
 
 initializeSong = () => {
-    cover.src = `/images/${playlist[index].file}.JPG`;
+    cover.src = `../images/${playlist[index].file}.JPG`;
     songName.innerText = playlist[index].songName;
     nomeBanda.innerText = playlist[index].artist;
-    song.src = `/songs/${playlist[index].file}.mp3`;
+    song.src = `../songs/${playlist[index].file}.mp3`;
     changeBackground();
 }
 initializeSong();
