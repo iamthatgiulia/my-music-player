@@ -154,11 +154,19 @@ button {
   margin-bottom: -10px;
   margin-left: -20px;
   position: absolute;
+  align-items: center;
 }
 
 
 @media(max-width: 800px){
   #progress-container {
-    width: 50%;
+    width: 59%;
+  }
+  
+  #container-botoes {
+  width: 59%;
+  justify-content: space-evenly;
+  align-items: center;
+  }
+  
 }
-
