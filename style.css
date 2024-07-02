@@ -154,12 +154,11 @@ button {
   margin-bottom: -10px;
   margin-left: -20px;
   position: absolute;
-  align-items: center;
 }
 
 
 @media(max-width: 800px){
   #progress-container {
-    width: 100%;
+    width: 50%;
 }
 
