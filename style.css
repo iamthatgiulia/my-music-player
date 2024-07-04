@@ -160,12 +160,11 @@ button {
 
 @media(max-width: 800px){
   #progress-container {
-    width: 59%;
+    width: 61%;
   }
   
   #container-botoes {
-  width: 59%;
-  justify-content: space-evenly;
+  width: 15%;
   align-items: center;
   }
   
