@@ -159,7 +159,7 @@ button {
 
 @media(max-width: 800px){
   #progress-container {
-    width: 65%;
+    width: 100%;
   }
 
   #container-botoes{
@@ -168,11 +168,11 @@ button {
   }
 
   #anterior, #proximo {
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
 
   #play-pause {
-    font-size: 3rem;
+    font-size: 3.5rem;
   }
 
 }
