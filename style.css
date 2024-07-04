@@ -69,7 +69,7 @@ button {
 
 
 #container-botoes {
-  width: 50%;
+  width: 100%;
   display: flex;
   justify-content: space-around;
   position: relative;
@@ -153,11 +153,16 @@ button {
   margin-top: -15px;
   margin-bottom: -10px;
   position: absolute;
+  align-items: center;
 }
 
 
 @media(max-width: 800px){
   #progress-container {
+    width: 65%;
+  }
+
+  #container-botoes{
     width: 65%;
   }
 }
