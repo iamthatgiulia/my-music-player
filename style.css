@@ -164,7 +164,15 @@ button {
 
   #container-botoes{
     width: 20%;
-    margin-left: -20px;
-    justify-content: space-between;
+    justify-content: space-evenly;
   }
+
+  #anterior, #proximo {
+    font-size: 2rem;
+  }
+
+  #play-pause {
+    font-size: 3rem;
+  }
+
 }
