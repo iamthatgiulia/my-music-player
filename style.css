@@ -165,5 +165,6 @@ button {
   #container-botoes{
     width: 20%;
     margin-left: -20px;
+    justify-content: space-between;
   }
 }
