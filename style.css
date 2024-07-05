@@ -166,7 +166,7 @@ button {
     justify-content: space-between;
     margin-left: 5rem;
     margin-right: 5rem;
-    width: 65%;
+    max-width: 65%;
   }
 
   #anterior, #proximo {
