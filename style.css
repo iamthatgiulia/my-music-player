@@ -164,7 +164,7 @@ button {
   }
 
   #container-botoes{
-    justify-content: center;
+    justify-content: start;
     max-width: 15%;
   }
 
