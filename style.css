@@ -151,19 +151,19 @@ button {
   border-radius: 20px;
   margin-top: -15px;
   margin-bottom: -10px;
-  margin-left: -26px;
+  margin-left: -28px;
   position: absolute;
 }
 
 
 @media(max-width: 800px){
   #progress-container {
-    width: 68%;
+    width: 70%;
   }
 
   #container-botoes{
     justify-content: space-around;
-    max-width: 55%;
+    max-width: 15%;
   }
 
   #anterior, #proximo {
