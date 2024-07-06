@@ -151,7 +151,7 @@ button {
   border-radius: 20px;
   margin-top: -15px;
   margin-bottom: -10px;
-  margin-left: -24px;
+  margin-left: -26px;
   position: absolute;
 }
 
@@ -162,7 +162,7 @@ button {
   }
 
   #container-botoes{
-    justify-content: space-evenly;
+    justify-content: space-around;
     max-width: 55%;
   }
 
