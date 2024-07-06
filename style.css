@@ -152,7 +152,7 @@ button {
   border-radius: 20px;
   margin-top: -15px;
   margin-bottom: -10px;
-  margin-left: -18px;
+  margin-left: -19px;
   position: absolute;
   justify-content: center;
 }
@@ -160,11 +160,10 @@ button {
 
 @media(max-width: 800px){
   #progress-container {
-    width: 100%;
+    width: 65%;
   }
 
   #container-botoes{
-    justify-content: start;
     max-width: 15%;
   }
 
