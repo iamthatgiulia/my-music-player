@@ -160,15 +160,18 @@ button {
 
 @media(max-width: 800px){
   #progress-container {
-    width: 65%;
+    max-width: 70%;
   }
 
   #container-botoes{
     max-width: 15%;
+    justify-content: space-around;
   }
 
   #anterior, #proximo {
     font-size: 2.5rem;
+    margin-left: 5px;
+    margin-right: 5px;
   }
 
   #play-pause {
