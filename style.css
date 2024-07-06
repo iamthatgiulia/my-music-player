@@ -115,6 +115,7 @@ button {
   border-radius: 15px;
   padding-bottom: 1em;
   padding-top: 1em;
+  align-items: center;
 }
 
 #time-box{
@@ -160,7 +161,6 @@ button {
 @media(max-width: 800px){
   #progress-container {
     width: 100%;
-    align-items: center;
   }
 
   #container-botoes{
