@@ -151,7 +151,7 @@ button {
   border-radius: 20px;
   margin-top: -15px;
   margin-bottom: -10px;
-  margin-left: -26px;
+  margin-left: -23px;
   position: absolute;
 }
 
@@ -168,12 +168,12 @@ button {
 
   #anterior {
     font-size: 2.5rem;
-    margin-left: 40px;
+    margin-left: 40rem;
   }
 
   #proximo {
     font-size: 2.5rem;
-    margin-right: 40px;
+    margin-right: 40rem;
   }
 
   #play-pause {
