@@ -171,7 +171,7 @@ button {
     max-width: 10%;
   }
 
-  #anterior, #proximo {
+  #bi bi-skip-backward-fill, #bi bi-skip-forward-fill {
     font-size: 2.5rem;
     margin-left: 5px;
     margin-right: 5px;
