@@ -176,14 +176,14 @@ button {
     font-size: 2.5rem;
     margin-right: 5%;
     align-items: center;
-    max-width: 10%;
+    max-width: 50%;
   }
 
   #proximo {
     font-size: 2.5rem;
     margin-left: 10%;
     align-items: center;
-    max-width: 10%;
+    max-width: 50%;
   }
 
   #play-pause {
