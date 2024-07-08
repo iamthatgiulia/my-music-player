@@ -164,8 +164,7 @@ button {
   }
 
   #container-botoes{
-    max-width: 15%;
-    justify-content: space-around;
+    line-width: 10px;
   }
 
   #anterior, #proximo {
