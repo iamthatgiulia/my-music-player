@@ -174,16 +174,16 @@ button {
 
   #anterior {
     font-size: 2.5rem;
-    margin-left: 5px;
+    margin-right: 5px;
     align-items: center;
-    max-width: 10%;
+    max-width: 5%;
   }
 
   #proximo {
     font-size: 2.5rem;
-    margin-right: 3px;
+    margin-left: 3px;
     align-items: center;
-    max-width: 10%;
+    max-width: 5%;
   }
 
   #play-pause {
