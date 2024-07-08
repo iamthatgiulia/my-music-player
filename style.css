@@ -68,7 +68,7 @@ button {
 }
 
 
-.container-botoes {
+#container-botoes {
   width: 100%;
   display: flex;
   justify-content: space-around;
