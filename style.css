@@ -158,28 +158,3 @@ button {
 }
 
 
-@media(max-width: 800px){
-  body {
-    margin-left: 5%;
-  }
-  
-  #progress-container {
-    max-width: 70%;
-  }
-
-  #container-botoes{
-    line-width: 10%;
-    justify-content: center; 
-  }
-
-  #anterior, #proximo {
-    font-size: 2.5rem;
-    margin-left: 5px;
-    margin-right: 5px;
-  }
-
-  #play-pause {
-    font-size: 3.5rem;
-  }
-
-}
