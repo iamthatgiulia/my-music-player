@@ -169,6 +169,7 @@ button {
 
   .container-botoes{
     max-width: 10%;
+    flex-direction: columm;
   }
 
   #anterior, #proximo {
