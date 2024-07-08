@@ -177,15 +177,12 @@ button {
     margin-left: 5%;
     margin-right: 5%;
     align-items: center;
-    max-width: 10%;
   }
 
   #proximo {
     font-size: 2.5rem;
     margin-right: 5%;
     margin-left: 5%;
-    align-items: center;
-    max-width: 5%;
   }
 
   #play-pause {
