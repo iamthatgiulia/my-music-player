@@ -159,12 +159,17 @@ button {
 
 
 @media(max-width: 800px){
+  body {
+    align-items: center;
+  }
+  
   #progress-container {
     max-width: 70%;
   }
 
   #container-botoes{
-    line-width: 10px;
+    line-width: 10%;
+    margin-right: 10%;
   }
 
   #anterior, #proximo {
