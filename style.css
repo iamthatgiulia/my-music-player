@@ -167,8 +167,8 @@ button {
     max-width: 70%;
   }
 
-  #container-botoes{
-    line-width: 10%;
+  .container-botoes{
+    max-width: 10%;
   }
 
   #anterior, #proximo {
