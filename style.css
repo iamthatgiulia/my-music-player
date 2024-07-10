@@ -159,9 +159,6 @@ button {
 
 
 @media(max-width: 2500px){
-  body {
-    margin-left: 14%;
-  }
   
   #progress-container {
     max-width: 72%;
