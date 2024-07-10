@@ -175,12 +175,12 @@ button {
 
   #anterior {
     font-size: 2.5rem;
-    margin-right: -7px;
+    margin-right: -9px;
   }
 
   #proximo {
     font-size: 2.5rem;
-    margin-left: -5px;
+    margin-left: -7px;
   }
 
   #play-pause {
