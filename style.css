@@ -158,9 +158,9 @@ button {
 }
 
 
-@media(max-width: 800px){
+@media(max-width: 2500px){
   body {
-    margin-left: 12%;
+    margin-left: 14%;
   }
   
   #progress-container {
@@ -175,12 +175,12 @@ button {
 
   #anterior {
     font-size: 2.5rem;
-    margin-right: -9px;
+    margin-right: -11px;
   }
 
   #proximo {
     font-size: 2.5rem;
-    margin-left: -7px;
+    margin-left: -9px;
   }
 
   #play-pause {
