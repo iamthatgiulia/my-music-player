@@ -161,7 +161,7 @@ button {
 @media(max-width: 800px){
   
   #progress-container {
-    max-width: 72%;
+    max-width: 100%;
   }
 
   .container-botoes{
