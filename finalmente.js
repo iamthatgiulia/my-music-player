@@ -112,6 +112,7 @@ changeBackground = () => {
 
 initializeSong = () => {
     cover.src = `./images/${playlist[index].file}.jpg`;
+    cover.style.transition = "background-color 1s"
     songName.innerText = playlist[index].songName;
     nomeBanda.innerText = playlist[index].artist;
     song.src = `./songs/${playlist[index].file}.mp3`;
