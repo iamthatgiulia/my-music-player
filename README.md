@@ -29,7 +29,7 @@ Criei este player de música como um presente de Dia dos Namorados e para coloca
 3. **Execute o servidor:** Inicie o servidor de desenvolvimento para visualizar o site localmente.
 
 ### **🗝️ Contribuições são bem-vindas!** 
-Se você encontrou algum bug, tem alguma sugestão ou quer adicionar uma nova receita, abra um issue ou um pull request. 
+Se você encontrou algum bug, tem alguma sugestão ou quer adicionar uma nova música, abra um issue ou um pull request. 
 
 Espero que gostem do resultado! 
 
